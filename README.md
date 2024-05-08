@@ -1,2 +1,2 @@
 # jh_mods
-Jupiter Hell mods
+Just a root directory to store Jupiter Hell mods.
